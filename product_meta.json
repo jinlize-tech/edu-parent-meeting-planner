@@ -1,0 +1,24 @@
+{
+  "number": 60,
+  "product_id": "JLZ-EDU-SK-048",
+  "chinese_name": "家长会策划",
+  "english_name": "Parent Meeting Planner",
+  "repository_name": "edu-parent-meeting-planner",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-meeting-planner-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "会议目标、家长群体、学生阶段、议题、时长、场地和敏感事项",
+  "main_output": "家长会议程、会前通知、主持稿、互动问题、材料清单和会后行动",
+  "package_entries": [
+    "edu-parent-meeting-planner/SKILL.md",
+    "edu-parent-meeting-planner/references/DOMAIN_GUIDE.md",
+    "edu-parent-meeting-planner/references/EXAMPLES.md",
+    "edu-parent-meeting-planner/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
